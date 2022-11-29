@@ -11442,6 +11442,7 @@ html {
   font-size: 1.25rem;
 }
 .masthead .masthead-avatar {
+  border-radius: 120px;
   width: 15rem;
 }
 
